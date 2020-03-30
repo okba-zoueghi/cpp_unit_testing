@@ -15,6 +15,6 @@ make install
 ## Build The Example
 
 ```shell
-g++ test.cpp -lgtest -lgtest_main -lgmock -lpthread
+g++ <file.cpp> -lgtest -lgtest_main -lgmock -lpthread
 
 ```
